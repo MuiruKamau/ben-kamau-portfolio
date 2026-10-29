@@ -79,7 +79,6 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
             </div>
             <div className="footer-base">
               <span>© 2026 {profile.name}</span>
-              <span>Built with Next.js</span>
             </div>
           </div>
         </footer>
